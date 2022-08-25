@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @SNWambui
-- I'm a junior at [Minerva University](https://www.minerva.edu)
+- I'm a senior at [Minerva University](https://www.minerva.edu)
 - I’m interested in Data Science, Machine Learning and Deep Learning
 -  I’m currently learning Deep Learning with [Deep Lizard](https://deeplizard.com)
 
