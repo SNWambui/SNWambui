@@ -1,5 +1,6 @@
-# 👋 Hi, I’m @SNWambui
-- I'm a senior at [Minerva University](https://www.minerva.edu)
+# 👋 Hi, I’m Steve
+- I'm a data analyst in finance
+- I'm graduated from [Minerva University](https://www.minerva.edu)
 - I’m interested in Data Science, Machine Learning and Deep Learning
 -  I’m currently learning Deep Learning with [Deep Lizard](https://deeplizard.com)
 
